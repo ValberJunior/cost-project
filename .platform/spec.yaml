@@ -11,5 +11,5 @@ spec:
   type: openapi
   lifecycle: production
   owner: consumer
-  definition: 
-    $text: ./.openapi/.openapi.yaml
+  definition:
+    $text: ./.openapi/openapi.yaml
