@@ -9,5 +9,5 @@ spec:
   lifecycle: experimental
   owner: "group:default/admin"
   estimate:
-   $text: ./.openapi/.openapi.yaml
+   $text: ./infracost-base.json
    

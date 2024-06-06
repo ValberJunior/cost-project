@@ -6,5 +6,4 @@ metadata:
 spec:
   targets:
     - ./.platform/cluster.yaml
-    - ./.platform/spec.yaml
     - ./.platform/infracost.yaml
