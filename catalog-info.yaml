@@ -5,4 +5,6 @@ metadata:
   description: Importing components
 spec:
   targets:
-    - ./.platform/*.yaml
+    - ./.platform/cluster.yaml
+    - ./.platform/spec.yaml
+    - ./.platform/infracost.yaml
