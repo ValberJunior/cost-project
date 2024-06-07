@@ -4,7 +4,6 @@ metadata:
   name: "ec2-cluster-apr"
   annotations:
     backstage.io/techdocs-ref: dir:.
-    infracost/project: ec2-cluster-apr
 spec:
   type: infracost
   lifecycle: experimental
