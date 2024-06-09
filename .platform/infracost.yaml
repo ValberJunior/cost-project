@@ -1,11 +1,11 @@
 apiVersion: veecode.backstage.io/v1alpha1
-kind: FinOps
+kind: Infracost
 metadata:
   name: "ec2-cluster-apr"
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: infracost
+  type: FinOps
   lifecycle: experimental
   owner: "group:default/admin"
   estimate:
