@@ -8,6 +8,6 @@ spec:
   type: FinOps
   lifecycle: experimental
   owner: "group:default/admin"
-  estimate:
-   $text: ./infracost-base.json
+#  estimate:
+#   $text: ./infracost-base.json
    
