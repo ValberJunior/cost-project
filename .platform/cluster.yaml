@@ -1,4 +1,4 @@
-apiVersion: veecode.backstage.io/v1alpha1
+apiVersion: backstage.io/v1alpha1
 kind: Component  #Cluster
 metadata:
   name: "ec2-cluster-apr"
